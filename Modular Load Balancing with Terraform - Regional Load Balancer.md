@@ -2,6 +2,7 @@
 
 ## Solution [Click here]()
 
+```bash
 export REGION=$(gcloud compute project-info describe \
 --format="value(commonInstanceMetadata.items[google-compute-default-region])")
 
@@ -17,3 +18,4 @@ export TF_VAR_project_id=$DEVSHELL_PROJECT_ID
 terraform init
 terraform plan
 yes | terraform apply --auto-approve
+```
