@@ -1,6 +1,6 @@
 #  Modular Load Balancing with Terraform - Regional Load Balancer
 
-## Solution [Click here]()
+## Solution [Click here](https://youtu.be/OPtfHgdBr-w)
 
 ```bash
 export REGION=$(gcloud compute project-info describe \
