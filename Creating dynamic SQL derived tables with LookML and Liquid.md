@@ -1,6 +1,6 @@
 # Creating dynamic SQL derived tables with LookML and Liquid
 
-## Solution [Click here]()
+## Solution [Click here](https://youtu.be/IMjR4tZHIpc)
 
 * Create a view for name, type: **user_facts** & replace the following
 
