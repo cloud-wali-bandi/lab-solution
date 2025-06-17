@@ -1,6 +1,6 @@
 #  APIs Explorer: Create and Update a Cluster
 
-## Solution [Click here]()
+## Solution [Click here](https://youtu.be/CK5M0tEOouA)
 
 ```bash
 export REGION=$(gcloud compute project-info describe \
