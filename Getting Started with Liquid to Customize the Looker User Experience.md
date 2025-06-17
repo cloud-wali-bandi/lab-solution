@@ -1,6 +1,6 @@
 # Getting Started with Liquid to Customize the Looker User Experience
 
-## Solution [Click here]()
+## Solution [Click here](https://youtu.be/xTkfUD1a5Pk)
 
 * Replace the following with **users.view** file
 
