@@ -1,6 +1,6 @@
 # Enhancing User Interactivity in Looker with Liquid
 
-## Solution [Click here]()
+## Solution [Click here](https://youtu.be/x4oJJM4WeiM)
 
 * Replace the following with **order_items.view** file
 
